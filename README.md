@@ -1,2 +1,3 @@
 # bookbot
-A short python program to count letters in a file
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
